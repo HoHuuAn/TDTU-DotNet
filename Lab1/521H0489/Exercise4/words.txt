@@ -1,0 +1,25 @@
+Lion
+Elephant
+Giraffe
+Tiger
+Zebra
+Monkey
+Dolphin
+Polar bear
+Penguin
+Kangaroo
+Cheetah
+Gorilla
+Wolf
+Fox
+Bear
+Deer
+Rabbit
+Horse
+Cow
+Dog
+Cat
+Mouse
+Sheep
+Goat
+Snake

@@ -1,0 +1,41 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+/* Add spacing between form fields */
+.form-group {
+  margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+.form-group label{
+  margin-bottom: 4px; /* Adjust the value as needed */
+}
+
+/* Optionally, you can add padding to the form fields for more spacing */
+.form-control {
+  padding: 10px; /* Adjust the value as needed */
+}
+
+a {
+  text-decoration: none;
+}
+

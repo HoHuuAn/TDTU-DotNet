@@ -1,0 +1,1 @@
+run: "dotnet ef database update" in Command Prompt before

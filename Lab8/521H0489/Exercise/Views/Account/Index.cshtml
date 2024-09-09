@@ -1,0 +1,13 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Account Management Page</h2>
+<ul>
+    <li><a asp-action="Login" asp-controller="Account">Login</a></li>
+    <li><a asp-action="Logout" asp-controller="Account">Logout</a></li>
+    <li><a asp-action="Register" asp-controller="Account">Register</a></li>
+</ul>
